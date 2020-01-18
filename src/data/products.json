@@ -1,0 +1,107 @@
+
+    {
+      "products": [{
+        "id" : "P001",
+        "categoryId" : "cty01",
+        
+        "name" : "Pine Apple",
+        "unit" : "Kg",
+        "pricePerUnit" : 1.2,
+        "stocks" : 10 
+        }, {   
+
+          "id" : "P002",
+          "categoryId" : "cty01",
+          "name" : "apple",
+          "unit" : "Kg",
+          "pricePerUnit" : 1,
+          "stocks" : 11  
+          }, {
+          
+            "id" : "P003",
+            "categoryId" : "cty01",
+            "name" : "banana",
+            "unit" : "Kg",
+            "pricePerUnit" : 0.8,
+            "stocks" : 10  
+            }, {
+              
+            
+              "id" : "P004",
+              "categoryId" : "cty01",
+              "name" : "banana",
+              "unit" : "Kg",
+              "pricePerUnit" : 0.8,
+              "stocks" : 10  
+              }, {
+                
+                "id" : "P005",
+                "categoryId" : "cty02",
+                "name" : "ladyfinger",
+                "unit" : "Kg",
+                "pricePerUnit" : 0.6,
+                "stocks" : 15  
+                }, {
+                  
+               
+                  "id" : "P006",
+                  "categoryId" : "cty02",
+                  "name" : "pea",
+                  "unit" : "Kg",
+                  "pricePerUnit" : 0.3,
+                  "stocks" : 14  
+                  }, {
+                    
+                  
+                    "id" : "P007",
+                    "categoryId" : "cty03",
+                    "name" : "lily",
+                    "unit" : "gm",
+                    "pricePerUnit" : 2,
+                    "stocks" : 19  
+                    }, {
+                    
+                      "id" : "P008",
+                      "categoryId" : "cty03",
+                      "name" : "lotus",
+                      "unit" : "gm",
+                      "pricePerUnit" : 2.1,
+                      "stocks" : 20  
+                      }, {
+                        
+                        "id" : "P009",
+                        "categoryId" : "cty03",
+                        "name" : "rose",
+                        "unit" : "gm",
+                        "pricePerUnit" : 4,
+                        "stocks" : 24  
+                        }, {
+                          
+                          "id" : "P010",
+                          "categoryId" : "cty04",
+                          "name" : "almond",
+                          "unit" : "kg",
+                          "pricePerUnit" : 4.5,
+                          "stocks" : 20  
+                          }, {
+                            
+                         
+                            "id" : "P011",
+                            "categoryId" : "cty04",
+                            "name" : "cashew",
+                            "unit" : "kg",
+                            "pricePerUnit" : 5,
+                            "stocks" : 21  
+                            }, {
+                              
+                              "id" : "P012",
+                              "categoryId" : "cty04",
+                              "name" : "walnut",
+                              "unit" : "kg",
+                              "pricePerUnit" : 8,
+                              "stocks" : 22  
+                              }, {
+                                
+                              }
+                              ]
+                          }

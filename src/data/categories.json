@@ -1,0 +1,21 @@
+
+    {
+  "categories": [
+    {
+      "id": "cty01",
+      "categoryName": "Fruits"
+    },
+    {
+      "id": "cty02",
+      "categoryName": "vegetables"
+    },
+    {
+      "id": "cty03",
+      "categoryName": "flowers"
+    },
+    {
+      "id": "cty04",
+      "categoryName": "dry fruits"
+    }
+    ]
+    }
